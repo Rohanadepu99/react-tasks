@@ -8,6 +8,16 @@
 			"problemMatcher": [],
 			"label": "npm: dev - react/vite-project",
 			"detail": "vite"
+		},
+		{
+			"type": "Live Preview",
+			"workspacePath": "d:\\10K Coders Class Videos Full Stack Dev\\All Tasks\\React Tasks",
+			"problemMatcher": [],
+			"label": "Live Preview: Run Server",
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			}
 		}
 	]
 }
